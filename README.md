@@ -18,5 +18,8 @@ Las entradas de nuestro algorítmo son la cédula del usuario, su rol en la univ
 ##### Salida:
 Las salidas de nuestro algorítmo son una frase que dice el rol del usuario, el precio a pagar con el descuento ya aplicado y el código del producto. Por otro lado, la otra salida es el precio total de la compra.
 
+#### Como se calcula:
+Se recibe el rol en la universidad y el precio del producto. Dependiendo del rol en la universidad, se aplica un 50% de descuento si es **estudiante** y un 20% de descuento si es un **profesor**.
+
 
 
